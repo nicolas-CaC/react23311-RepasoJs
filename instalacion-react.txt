@@ -1,0 +1,28 @@
+Instalación - Proyecto:
+
+npm:
+    npm create vite
+
+Yarn:
+    yarn create vite
+
+
+
+Instalación - packages:
+
+npm:
+    npm i
+
+Yarn:
+    yarn add react
+
+
+
+Ejecución
+
+npm:    
+    npm run dev
+
+yarn:
+    yarn dev
+
